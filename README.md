@@ -1,2 +1,2 @@
-# Capcut-Bot
-Capcut Style Telegram Bot 
+# Capcut-Bot Starter
+A Telegram bot that mimics Capcut-style editing using FFmpeg. Basic start command included.
